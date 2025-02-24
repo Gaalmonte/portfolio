@@ -17,6 +17,24 @@ const projects = [
     githubLink: "https://github.com/Gaalmonte/2D-Breakout-Game",
     liveLink: "https://gaalmonte.github.io/2D-Breakout-Game/",
   },
+  {
+    title: "2D Breakout Game",
+    description: "A classic 2D breakout game, Utilized Javascript Object Oriented Programming.",
+    githubLink: "https://github.com/Gaalmonte/2D-Breakout-Game",
+    liveLink: "https://gaalmonte.github.io/2D-Breakout-Game/",
+  },
+  {
+    title: "2D Breakout Game",
+    description: "A classic 2D breakout game, Utilized Javascript Object Oriented Programming.",
+    githubLink: "https://github.com/Gaalmonte/2D-Breakout-Game",
+    liveLink: "https://gaalmonte.github.io/2D-Breakout-Game/",
+  },
+  {
+    title: "2D Breakout Game",
+    description: "A classic 2D breakout game, Utilized Javascript Object Oriented Programming.",
+    githubLink: "https://github.com/Gaalmonte/2D-Breakout-Game",
+    liveLink: "https://gaalmonte.github.io/2D-Breakout-Game/",
+  },
   // Add more projects here
 ];
 
