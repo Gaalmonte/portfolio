@@ -11,5 +11,13 @@
 /**
  * END --- SETUP TAILWINDCSS EDIT
  */
+:root {
+  --primary-green: #0A2E36;
+  --white: #FFFFFF;
+  --accent-green: #1C6E7D;
+}
 
+body {
+  font-family: 'Inter', sans-serif;
+}
 
